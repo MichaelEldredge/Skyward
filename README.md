@@ -6,4 +6,4 @@ Michael is connected.
 
 Nicholas is NOT connected.
 
-Raheedn is NOT connected.
+Raheen is NOT connected.

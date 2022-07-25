@@ -1,6 +1,6 @@
 # Skyward
 
-August is NOT connected.
+August is connected.
 
 Michael is connected.
 

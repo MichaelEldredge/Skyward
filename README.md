@@ -4,7 +4,7 @@ August is connected.
 
 Michael is connected.
 
-Nicholas is NOT connected.
+Nicolas is connected.
 
 Raheen is NOT connected.
 

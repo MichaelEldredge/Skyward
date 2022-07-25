@@ -8,4 +8,4 @@ Nicholas is NOT connected.
 
 Raheen is connected.
 
-Joshua is NOT connected
+Joshua is connected
